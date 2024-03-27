@@ -1,6 +1,6 @@
 import Dependencies._
 
-ThisBuild / scalaVersion := "3.3.3"
+ThisBuild / scalaVersion := "3.4.1"
 ThisBuild / scalacOptions += "-explain"
 
 lazy val root = (project in file("."))
